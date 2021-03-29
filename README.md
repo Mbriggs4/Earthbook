@@ -9,6 +9,6 @@ Forms are incorporated on this page for the user to login by email and input pas
 
 'Forgot password' and 'Create New Account' buttons are linked to other webpages, with other features. 
 
-Upon selection of 'Forgot Password' you are taken to a new page. I feature CSS media quearies, by showing columns that change size when page is minimized or maximized, with active links that will take you to other useful webpages. 
+Upon selection of 'Forgot Password' you are taken to a new page. I feature CSS media quearies, by showing columns that change size or stack depending on pixels in the window. The toolbar is equipped with active links that will perform other actions. 
 Another javascript feature on this page includes a draggable text box and I included forms that will send the user an email when 'Send' is selected. 
 The 'Create New Account' page is where the user must input information into the form and it will be validated with autofill as a helpful option. 
